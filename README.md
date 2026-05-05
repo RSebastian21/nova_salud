@@ -94,11 +94,9 @@
 ## 🚀 Instalación
 
 ### 1. Preparación del Entorno
+Ubicar el proyecto dentro de la carpeta de XAMPP:
 ```bash
-# Clonar o descargar el proyecto
 cd C:\xampp\htdocs\
-git clone https://github.com/tu-usuario/nova-salud.git
-# o descomprimir el archivo ZIP
 ```
 
 ### 2. Configuración de XAMPP
